@@ -36,11 +36,11 @@ function dec(n) {
 }
 
 function makeInt(n){
-number = parseInt(a, 10);
+number = parseInt(n, 10);
 return number;
 }
 
 function preserveDecimal(n){
-  number = parseFloat(a, 10);
+  number = parseFloat(n, 10);
   return number;
 }
