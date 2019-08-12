@@ -34,3 +34,13 @@ function dec(n) {
   var number = n - 1;
   return number;
 }
+
+function makeInt(n){
+number = parseInt(a, 10);
+return number;
+}
+
+function preserveDecimal(n){
+  number = parseFloat(a, 10);
+  return number;
+}
